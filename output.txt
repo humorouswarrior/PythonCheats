@@ -1,3 +1,22 @@
-Point(First=2, Second=9)
-2 5
-7 5
+HELLO WORLD
+hello world
+Hello world
+Hello World
+hello
+['Hello', 'World']
+a-b-c
+Hello Python
+6
+-1
+6
+True
+True
+3
+True
+True
+True
+ell
+Hel
+llo
+olleH
+Hlo
